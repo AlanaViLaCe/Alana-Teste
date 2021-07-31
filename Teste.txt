@@ -1,1 +1,23 @@
 A<main>
+
+Git Bash Here/ VS Code/ CMD -> Consigo abrir  em qualquer terminal de console com os mesmos comandos.
+
+Quando abrir o repositório verificar se estou na pasta certa/ terminal certo.
+
+git --version
+
+Instalar - Atenção Branch Main
+git init (1ª vez que criei a pasta no PC)
+git status (como estão os arquivos)
+git add nomedoarquivo ou . (tudo).
+git commit - m "digitar o que quiser" (abre um terminal ja adicionando a mensagem)
+
+Criar repositório online
+git remote  add origin linkdorepositorioonline (origin = nome do repositório)
+
+git remote -v (mostrar em qual repositório está ligado)
+git push origin main (enviar para a nuvem)
+git log (mostrar os commit que foram feitos)
+
+git clone linkdorepositorionuvem
+git pull origin main (puxar do repositório online para o repositório local).
