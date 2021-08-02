@@ -22,4 +22,23 @@ git log (mostrar os commit que foram feitos)
 git clone linkdorepositorionuvem
 git pull origin main (puxar do repositório online para o repositório local).
 
-tudo mentira
+Cria repositório com estrutura base na main, todos fazem o clone e criam as branchs a partir disso.
+
+git branch Develop (ou outro nome que tenha ligação com o que está sendo desenvolvido e não do desenvolvedor)
+git branch (fala quais as branch)
+git checkout nomedabranch (troca de branches).
+git fetch (atualiza o Pc com as branches)
+
+git branch -a (mostra as branches remotas que não estão no PC).
+
+Estar na branch que quero puxar.
+$ git merge origin/nome (juntar duas branches)
+git add e commit
+
+git config user.name "Alana" (Só configura o nome - fazer antes do commit não é autentificação)
+git config user.email "avlcerqueira@gmail.com"
+
+
+
+
+
