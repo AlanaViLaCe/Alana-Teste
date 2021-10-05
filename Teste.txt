@@ -13,7 +13,7 @@ git add nomedoarquivo ou . (tudo).
 git commit - m "digitar o que quiser" (abre um terminal ja adicionando a mensagem)
 
 Criar repositório online
-git remote  add origin linkdorepositorioonline (origin = nome do repositório)
+git remote  add origin linkdorepositorioonline (origin = nome do repositório atalho: shift insert)
 
 git remote -v (mostrar em qual repositório está ligado)
 git push origin main (enviar para a nuvem)
