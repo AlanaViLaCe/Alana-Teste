@@ -37,8 +37,3 @@ git add e commit
 
 git config user.name "Alana" (Só configura o nome - fazer antes do commit não é autentificação)
 git config user.email "avlcerqueira@gmail.com"
-
-
-
-
-
