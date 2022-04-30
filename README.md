@@ -1,4 +1,4 @@
-# Alana-Teste
+# UC7 - Versionamento: Atividade 1
 Aprendendo a usar o Git e o GitHub
 
 **Comando /Descrição **
